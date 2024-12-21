@@ -6,7 +6,7 @@ FOLLOWING ARE THE INSTRUCTIONS TO OPEN THEM:-
 
 
 **First of all, in the terminal cd to whatever app you want to test first, for example if you want to check the collaborative editing app, first enter cd COLLABORATIVE_DOCUMENT, then follow the steps given below.
-**__
+**
 
 
 FOR CHAT APP:-

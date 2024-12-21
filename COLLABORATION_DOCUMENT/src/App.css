@@ -1,0 +1,80 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f0f4f8;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  background-color: white;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  width: 80%;
+  max-width: 1000px;
+}
+
+/* Header */
+.App-header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #333;
+  font-size: 24px;
+  margin: 0;
+}
+
+/* Collaborative editor container */
+.collaborative-editor {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Textarea */
+textarea {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  line-height: 1.5;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+  resize: vertical;
+  min-height: 300px;
+  outline: none;
+  transition: border-color 0.3s ease;
+}
+
+textarea:focus {
+  border-color: #007bff;
+  background-color: #fff;
+}
+
+.status-bar {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  margin-top: 10px;
+  font-size: 14px;
+  color: #666;
+}
+
+.status-bar .user-count {
+  font-weight: bold;
+  color: #28a745;
+}
+
+.status-bar .disconnected {
+  color: #dc3545;
+}

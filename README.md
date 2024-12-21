@@ -12,6 +12,7 @@ FOR CHAT APP:-
 You can copy the index.html file into your browser or just write npm start in the terminal which will give a link with port number 3000, open that, and it will work. 
 Enter the workspace id, could be anything, open the link in another tab, and enter the same workspace id, and now you can chat with each other. (Check the console in the browser after creating the workspace id to make sure you are connected to the server.)
 (Also click on the send button to send message, pressing enter doesnt work.)
+(I coded both the css and js part in html part itself, thats why there is only index.html and server.js )
 
 FOR COLLABORATIVE EDITING APP:-
 IMPORTANT- first enter **"npm install"** to install the node modules, do this first otherwise it wont work.

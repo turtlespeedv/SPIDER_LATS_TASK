@@ -10,5 +10,5 @@ Enter the workspace id, could be anything, open the link in another tab, and ent
 (Also click on the send button to send message, pressing enter doesnt work.)
 
 FOR COLLABORATIVE EDITING APP:-
-IMP- first enter **"npm install"** to install the node modules, do this first otherwise it wont work.
+IMPORTANT- first enter **"npm install"** to install the node modules, do this first otherwise it wont work.
 Enter **npm start** and a site will open, you can start writing in the space given in the middle, Open another tab with the link and you will see that writing in one tab will automatically illustrate that change in the other, this can be done with multiple users.

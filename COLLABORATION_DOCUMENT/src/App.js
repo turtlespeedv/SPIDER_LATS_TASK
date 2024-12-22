@@ -1,6 +1,6 @@
 import React from "react";
 import CollaborativeEditor from "./CollaborativeEditor";
-import './App.css';  // Importing the CSS file
+import './App.css';  
 
 function App() {
   return (

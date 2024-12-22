@@ -8,6 +8,8 @@ FOLLOWING ARE THE INSTRUCTIONS TO OPEN THEM:-
   
 **Then, in the terminal cd to whatever app you want to test first, for example if you want to check the collaborative editing app, first enter cd SPIDER_LATS_TASK/COLLABORATION_DOCUMENT/, then follow the steps given below.**
 
+**You will also need to download _ngrok_ if you want to use the apps between different systems**
+
 
 FOR CHAT APP:- 
 You can copy the index.html file into your browser or just write **npm start** in the terminal which will give a link with port number 3000, open that, and it will work. 

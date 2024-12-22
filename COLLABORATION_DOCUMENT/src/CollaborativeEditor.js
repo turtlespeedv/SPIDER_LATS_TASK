@@ -11,7 +11,7 @@ const CollaborativeEditor = () => {
   useEffect(() => {
     const doc = new Y.Doc();
     
-    // Connect to the WebSocket server (can change to another URL if needed)
+    // Connect to the WebSocket server
     const provider = new WebsocketProvider('wss://yjs-websocket.glitch.me', 'my-roomname', doc);
 
     const yText = doc.getText("text");

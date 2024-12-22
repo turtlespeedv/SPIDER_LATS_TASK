@@ -1,8 +1,7 @@
-// Importing required modules
-const express = require('express');    // For handling HTTP requests
-const WebSocket = require('ws');      // For WebSocket server functionality
-const http = require('http');         // Built-in HTTP module to create a server
-const path = require('path');         // To serve static files like HTML
+const express = require('express');    
+const WebSocket = require('ws');      
+const http = require('http');         
+const path = require('path');         
 
 // Initialize express app and HTTP server
 const app = express();
@@ -11,7 +10,6 @@ const server = http.createServer(app);
 // Initialize WebSocket server
 const wss = new WebSocket.Server({ server });
 
-// Store clients for each workspace (channel)
 const workspaces = {};
 
 // Function to broadcast messages to a specific workspace (except the sender)

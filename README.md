@@ -1,8 +1,9 @@
 # SPIDER_LATS_TASK
-Hello i am vedansh from eee 2nd year, app dev domain
+Hello i am vedansh from eee 2nd year, app dev domain.
 
 I have included all the parts of the tasks i was able to complete in this repo, i was not able to integrate all of them in one single place right, so i have included them individually.
 FOLLOWING ARE THE INSTRUCTIONS TO OPEN THEM:-
+(Clone the git repo using to your system first.)
 
 **First install node.js, if you don't have it installed.**
   

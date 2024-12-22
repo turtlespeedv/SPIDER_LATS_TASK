@@ -4,8 +4,9 @@ Hello i am vedansh from eee 2nd year, app dev domain
 I have included all the parts of the tasks i was able to complete in this repo, i was not able to integrate all of them in one single place right, so i have included them individually.
 FOLLOWING ARE THE INSTRUCTIONS TO OPEN THEM:-
 
-
-**First of all, in the terminal cd to whatever app you want to test first, for example if you want to check the collaborative editing app, first enter cd SPIDER_LATS_TASK/COLLABORATION_DOCUMENT/, then follow the steps given below.**
+**First install node.js, if you don't have it installed**
+  
+**Then, in the terminal cd to whatever app you want to test first, for example if you want to check the collaborative editing app, first enter cd SPIDER_LATS_TASK/COLLABORATION_DOCUMENT/, then follow the steps given below.**
 
 
 FOR CHAT APP:- 

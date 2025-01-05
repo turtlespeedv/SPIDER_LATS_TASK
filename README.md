@@ -23,3 +23,15 @@ FOR COLLABORATIVE EDITING APP:-
 IMPORTANT- first enter **"npm install"** to install the node modules, do this first otherwise it wont work.
 Enter **npm start** and a site will open, you can start writing in the space given in the middle, Open another tab with the link and you will see that writing in one tab will automatically illustrate that change in the other, this can be done with multiple users.
 **Tech stack used- React, js, css, yjs (for the editing part)**
+
+(My laptop broke down and stopped working a day before the deadline, so I used a friend's laptop to try and salvage the problem, the first two major parts of the project still work, but the video conferencing, user authentication, and docker parts are not working completely well on this system right, still I have uploaded whatever part that works to the git repo.)
+
+FOR VIDEO-CONFERENCING:-
+First enter npm install to install the node modules.
+Then enter node server.js in one terminal and npm start in another terminal.
+The task is partially completed in the sense that all the controls and all, i.e muting/unmuting, turning the camera on/off are working fine, but the server part is causing an issue.
+Tech stack used- React, js ,css, webrtc, socket for frontend and node.js, express, cors for backend.
+
+
+
+

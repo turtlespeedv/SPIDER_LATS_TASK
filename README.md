@@ -32,6 +32,6 @@ The task is partially completed in the sense that all the controls and all, i.e 
 Tech stack used- React, js ,css, webrtc, socket for frontend and node.js, express, cors for backend.
 
 # CI/CD PIPELINE INTEGRATION:-
-I incorporated the CI/CD integration to the collaborative editing app, i have created all the files, including the .yml fil, adding the repo link to the package.json file, generating a PAT, but again since my laptop broke down and i am using my friends laptop, i am not having the permission to push the changes, so the final output is not reflected, but the CI/CD integration itself is complete.
+I incorporated the CI/CD integration using github actions to the collaborative editing app, i have created all the files, including the .yml fil, updating the package.json file, generating a PAT, and deployed the contecnts to another branch called gh-branch which can be seen in the actions tab.
 
 

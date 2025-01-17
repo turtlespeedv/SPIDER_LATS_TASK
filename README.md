@@ -38,7 +38,7 @@ npm install
 Enter **npm start** and a site will open, you can start writing in the space given in the middle, Open another tab with the link and you will see that writing in one tab will automatically illustrate that change in the other, this can be done with multiple users.
 **Tech stack used- React, js, css, yjs (for the editing part)**
 ```
-npm install
+npm start
 ```
 
 (My laptop broke down and stopped working a day before the deadline, so I used a friend's laptop to try and salvage the problem, the first two major parts of the project still work, but the video conferencing, user authentication, and docker parts are not working completely well on this system right, still I have uploaded whatever part that works to the git repo.)

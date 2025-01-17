@@ -9,6 +9,10 @@ FOLLOWING ARE THE INSTRUCTIONS TO OPEN THEM:-
   
 **Then, in the terminal cd to whatever app you want to test first, for example if you want to check the collaborative editing app, first enter cd SPIDER_LATS_TASK/COLLABORATION_DOCUMENT/, then follow the steps given below.**
 
+```
+cd SPIDER_LATS_TASK/COLLABORATION_DOCUMENT/
+```
+
 **You will also need to download _ngrok_ if you want to use the apps between different systems** 
 
 # FOR CHAT APP:- 
@@ -17,6 +21,14 @@ Enter the workspace id, could be anything, open the link in another tab, and ent
 (Also click on the send button to send message, pressing enter doesnt work.)
 (I coded both the css and js part in html part itself, thats why there is only index.html and server.js )
 **Tech stack used- node.js, express.js, websocket for backend / html and js for frontend**
+
+```
+npm start
+```
+
+```
+node server.js
+```
 
 # FOR COLLABORATIVE EDITING APP:-
 IMPORTANT- first enter **"npm install"** to install the node modules, do this first otherwise it wont work.
